@@ -5,10 +5,10 @@
 #   git config --global core.excludesfile '~/.gitignore_global'
 
 # Ignore secrets file
-/secret.js
+/secrets.js
 
 # Ignore idea files
-/.idea
+.idea/
 
 
 
