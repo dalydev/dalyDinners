@@ -10,5 +10,8 @@
 # Ignore idea files
 .idea/
 
+# Ignore ssl folder
+.ssl/
+
 
 
