@@ -8,10 +8,10 @@
 /secrets.js
 
 # Ignore idea files
-.idea/
+/.idea/*.*
 
 # Ignore ssl folder
-.ssl/
+/ssl/*.*
 
 
 
